@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 
 import SearchBar from './components/search_bar';
 
-const API_KEY = "AIzaSyDFbMIk5_ASzja3-YQnHZDWJo9phsCxn-M"
+const API_KEY = ""
 
 //App is a class
 const App = function(){
